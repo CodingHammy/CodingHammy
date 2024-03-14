@@ -2,7 +2,9 @@
 CodingHammy/CodingHammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->  
-![Will Hamilton](https://media.licdn.com/dms/image/D4E35AQEiEfH8-ZaSKQ/profile-framedphoto-shrink_200_200/0/1709810749910?e=1711054800&v=beta&t=lLdCjLlxi5plaOOi9GF_hZ6zAtJrsnHkzmlTeZy8qFA)
+![Will Hamilton's banner](https://media.licdn.com/dms/image/D4E16AQFZg984-GaKIQ/profile-displaybackgroundimage-shrink_350_1400/0/1709827153072?e=1715817600&v=beta&t=DyIe9ccjdMwoRS1gFJsKo1rfzauZ_PyYBxbJRWhQtCg)
+
+
 
 
 
