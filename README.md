@@ -36,7 +36,7 @@ Currently, I'm working on a variety of projects to showcase my skills and demons
 
     Repo: https://github.com/CodingHammy/Tanzwerk | Demo: https://tanzwerkmensch.de
 
-    Brief description of the project.
+    Tanzwerk is a website I developed in September of last year for a dynamic dance studio based in Germany. Drawing on my self-taught skills in HTML, CSS, and foundational JavaScript, I designed this platform to serve as a vibrant online hub for the dance community. It showcases the studio's offerings, schedules, and an engaging user experience, reflecting the energy and artistry of dance. Tanzwerk is a testament to my commitment to continuous learning and the fusion of technology and creativity in the world of web development.
 
 
 
