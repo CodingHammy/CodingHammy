@@ -25,16 +25,23 @@ Through an intensive course, I'm refining my frontend skills and acquiring new c
 Currently, I'm working on a variety of projects to showcase my skills and demonstrate my passion for coding. Here are a few of them:
 
 - **GreenStore**
+- 
     repo: https://github.com/CodingHammy/GreenStore:
   
     Demo: https://green-store-three.vercel.app/
     
     Brief description of the project.
+
+
   
 - **TanzWerk**
+
   repo: https://github.com/CodingHammy/Tanzwerk
+
   Demo: tanzwerkmensch
+
   Brief description of the project.
+
 
 
 Feel free to explore my repositories to see more of my work!
