@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-# Welcome to Will Hamiltons's GitHub Profile
+# Welcome to my GitHub Profile
 
 Hello there! I'm a self-taught React developer navigating the complex world of coding while juggling the responsibilities of a full-time live-in caregiving role. Currently I undertaking a HyperionDev Bootcamp, to hone my skills and to fill any gaps in my knowledge.
 
