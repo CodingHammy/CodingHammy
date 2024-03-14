@@ -28,7 +28,7 @@ Currently, I'm working on a variety of projects to showcase my skills and demons
  
     Repo: https://github.com/CodingHammy/GreenStore: | Demo: https://green-store-three.vercel.app/
     
-    Brief description of the project.
+    Greenstore is a personal website showcasing 24 months of web development expertise. It features project highlights, coding challenges, and a fully functional shopping cart seamlessly integrated with a database. Utilizing JavaScript, React, CSS, Next.js, Redux, and Mapbox, Greenstore offers visitors an immersive experience into the creator's knowledge and accomplishments in web development.
 
 
   
