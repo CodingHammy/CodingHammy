@@ -32,8 +32,7 @@ Currently, I'm working on a variety of projects to showcase my skills and demons
     
     Brief description of the project.
 
-
-
+---
   
 - **TanzWerk**
 
@@ -43,7 +42,7 @@ Currently, I'm working on a variety of projects to showcase my skills and demons
 
   Brief description of the project.
 
-
+---
 
 
 Feel free to explore my repositories to see more of my work!
