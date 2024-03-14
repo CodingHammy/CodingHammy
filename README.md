@@ -26,7 +26,9 @@ Currently, I'm working on a variety of projects to showcase my skills and demons
 
 - **GreenStore**
     repo: https://github.com/CodingHammy/GreenStore:
+  
     Demo: https://green-store-three.vercel.app/
+    
     Brief description of the project.
   
 - **TanzWerk**
