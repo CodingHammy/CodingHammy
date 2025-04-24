@@ -1,8 +1,8 @@
 <!---
 CodingHammy/CodingHammy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->  
 ![Will Hamilton's banner](https://media.licdn.com/dms/image/D4E16AQFZg984-GaKIQ/profile-displaybackgroundimage-shrink_350_1400/0/1709827153072?e=1715817600&v=beta&t=DyIe9ccjdMwoRS1gFJsKo1rfzauZ_PyYBxbJRWhQtCg)
+--->  
 
 
 
